@@ -1212,7 +1212,7 @@ section {
     background-color: var(--color-grey-5);
   }
   .controls .control {
-    margin: .6rem 1rem !important;
+    margin: .3rem .7rem !important;
   }
 }
 
